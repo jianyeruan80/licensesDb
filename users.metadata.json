@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"licensesDb.users"},{"v":1,"unique":true,"key":{"userName":1,"merchantIds":1},"name":"userName_1_merchantIds_1","ns":"licensesDb.users","sparse":true,"background":true}]}
